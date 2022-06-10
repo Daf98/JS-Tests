@@ -1,0 +1,22 @@
+{
+  "name": "js-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daf98/JS-Tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daf98/JS-Tests/issues"
+  },
+  "homepage": "https://github.com/Daf98/JS-Tests#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
